@@ -1,0 +1,11 @@
+Match Report: 2022-03-28 to 2022-04-01
+======================================
+
+Number of People: 7
+Number of Matches: 3
+Number of 3 way matches: 1
+Number of Unmatched People (found by method 1): 0
+Number of Unmatched People (found by method 2): 0
+Number of Unmatched People found from each method Match: True
+
+Names of Unmatched Persons
